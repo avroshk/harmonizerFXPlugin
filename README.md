@@ -5,8 +5,8 @@ harmonizerFX AU Plugin
 * Download [JUCE](https://juce.com/get-juce/download)
 
 # Setup on Mac
-* Launch `Projucer`
-* Open (harmonizerFX/harmonizerFX.jucer)[harmonizerFX/harmonizerFX.jucer] in Projucer
+* Launc `Projucer`
+* Open [harmonizerFX/harmonizerFX.jucer](harmonizerFX/harmonizerFX.jucer) in Projucer
 * Select `Xcode (macOS)` under Selected exporter and click the Xcode icon to launch Xcode
 
 ![launch-xcode](screenshots/launch-xcode.png?raw=true "launch-xcode")
@@ -16,7 +16,7 @@ harmonizerFX AU Plugin
 
 ![xcode](screenshots/xcode.png?raw=true "xcode")
 
-* If the build is successful you shall see `harmonizerFX.component` available under Products section of your Xcode project. Right-click and click "Show in Finder"
+* If the build is successful, you shall see `harmonizerFX.component` available under Products section of your Xcode project.
 * Copy `$HOME/Library/Audio/Plug-Ins/Components/harmonizerFX.component` to `/Library/Audio/Plug-Ins/Components/` (This is where all system wide plugins are installed)
 
 # Run
