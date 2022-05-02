@@ -5,7 +5,7 @@ harmonizerFX AU Plugin
 * Download [JUCE](https://juce.com/get-juce/download)
 
 # Setup on Mac
-* Launc `Projucer`
+* Launch `Projucer`
 * Open [harmonizerFX/harmonizerFX.jucer](harmonizerFX/harmonizerFX.jucer) in Projucer
 * Select `Xcode (macOS)` under Selected exporter and click the Xcode icon to launch Xcode
 
@@ -21,6 +21,6 @@ harmonizerFX AU Plugin
 
 # Run
 * Launch your preferred DAW and you shall find `harmonizerFX` plugin available under `SoundObjects` (temporary plugin manufacturer company title)
-* Add the plugin to an audio-track and you shall be see the default plugin UI.
+* Once you add the plugin to an audio-track and the default plugin UI shall appear.
 
 ![default-plugin](screenshots/default-plugin.png?raw=true "default-plugin")
