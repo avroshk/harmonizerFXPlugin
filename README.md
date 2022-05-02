@@ -1,0 +1,2 @@
+# harmonizerFXPlugin
+harmonizerFX AU Plugin
