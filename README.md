@@ -21,6 +21,6 @@ harmonizerFX AU Plugin
 
 # Run
 * Launch your preferred DAW and you shall find `harmonizerFX` plugin available under `SoundObjects` (temporary plugin manufacturer company title)
-* Once you add the plugin to an audio-track and the default plugin UI shall appear.
+* Once you add the plugin to an audio-track, the default plugin UI shall appear.
 
 ![default-plugin](screenshots/default-plugin.png?raw=true "default-plugin")
